@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/michael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.0.0_249f3a3f4a2644a7a3df9edd933d0f4a0494ead2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_237d4acee3dcc67e1997bffe26d90bfc95e16a28/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_237d4acee3dcc67e1997bffe26d90bfc95e16a28.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_e1a1bfc4a8b46fd85e63381cce37c8ed98071dad/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-core-ui-25.0.0_4635431a94cc94c842d96f67b628b0a3c5b290ec.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.0.0_4635431a94cc94c842d96f67b628b0a3c5b290ec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="eb251f0ebbdb6530d713884258d5b4efaf349372">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_0754af1d25ec1c19d4135687f644829e3b5535e1/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-v4-25.0.0_b21ade0caa8b8ea079f553f48390689157fbe7ae.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_653b8f9bb21f67b2aec0dd75a365317a6fcaceca/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_653b8f9bb21f67b2aec0dd75a365317a6fcaceca.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.0.0_b21ade0caa8b8ea079f553f48390689157fbe7ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_e1a1bfc4a8b46fd85e63381cce37c8ed98071dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-appcompat-v7-25.0.0_f2b2c2e9de040ca6f4415ea34b9ea05bcf33d36f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="61e15958c7239e1e919a48122ce357e25aead8fd">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_0b72c24843ba74e41aad94ee2bd449d3b2ba2a67/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.0.0_f2b2c2e9de040ca6f4415ea34b9ea05bcf33d36f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.0.0_c7d6a3ce12d92d47655422a34d19572f63ec1666/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_84193d1e6e2946c177ad43d45d13395de8c551a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-core-utils-25.0.0_c7d6a3ce12d92d47655422a34d19572f63ec1666.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_84193d1e6e2946c177ad43d45d13395de8c551a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-vector-drawable-25.0.0_2a5becc5ec19069cfcb0ee7e8d34665e0245b356.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.0.0_1ab469f9b064f5fb6f69e1fe8c778520b9dd0781/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.0.0_2956ce6fc5088b4fa13c026e677d95d3cac91ab3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.0.0_578be225aaffe7e68d4ef3bc00d4555ce8223cd2/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-animated-vector-drawable-25.0.0_2956ce6fc5088b4fa13c026e677d95d3cac91ab3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-fragment-25.0.0_578be225aaffe7e68d4ef3bc00d4555ce8223cd2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-media-compat-25.0.0_1ab469f9b064f5fb6f69e1fe8c778520b9dd0781.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.0.0_2a5becc5ec19069cfcb0ee7e8d34665e0245b356/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-25.0.0_958e6b16d39d1928ee0ca4432fb1a3f72b0fbcf2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.0.0_96f54d553086c061bac6cbf15814b2193a58e341/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.0.0/jars/libs/internal_impl-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/internal_impl-25.0.0_958e6b16d39d1928ee0ca4432fb1a3f72b0fbcf2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.0.0/support-annotations-25.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/support-annotations-25.0.0_249f3a3f4a2644a7a3df9edd933d0f4a0494ead2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="/home/michael/AndroidStudioProjects/EvenOddGame/app/build/intermediates/pre-dexed/release/com.android.support-support-compat-25.0.0_96f54d553086c061bac6cbf15814b2193a58e341.jar" />
+    </item>
+
+</items>
