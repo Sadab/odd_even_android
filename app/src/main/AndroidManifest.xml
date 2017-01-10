@@ -16,11 +16,6 @@
             </intent-filter>
         </activity>
         <activity android:name=".EvenOdd" />
-        <activity
-            android:name=".HomeActivity"
-            android:configChanges="orientation|keyboardHidden|screenSize"
-            android:label="@string/title_activity_home"
-            android:theme="@style/FullscreenTheme" />
         <activity android:name=".Home" />
         <activity android:name=".HighScore" />
         <activity android:name=".About"></activity>
