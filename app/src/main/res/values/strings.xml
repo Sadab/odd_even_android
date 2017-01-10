@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Even Odd Game</string>
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="name">
+/        |                                /      \      /  |     /  |
+$$$$$$$$__     __ ______  _______        /$$$$$$  | ____$$ | ____$$ |
+$$ |__ /  \   /  /      \/       \       $$ |  $$ |/    $$ |/    $$ |
+$$    |$$  \ /$$/$$$$$$  $$$$$$$  |      $$ |  $$ /$$$$$$$ /$$$$$$$ |
+$$$$$/  $$  /$$/$$    $$ $$ |  $$ |      $$ |  $$ $$ |  $$ $$ |  $$ |
+$$ |_____$$ $$/ $$$$$$$$/$$ |  $$ |      $$ \__$$ $$ \__$$ $$ \__$$ |
+$$       |$$$/  $$       $$ |  $$ |      $$    $$/$$    $$ $$    $$ |
+$$$$$$$$/  $/    $$$$$$$/$$/   $$/        $$$$$$/  $$$$$$$/ $$$$$$$/
+                                                        </string>
+</resources>
